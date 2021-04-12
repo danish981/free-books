@@ -1,7 +1,7 @@
 # Ebooks
 ## Big Collection of free E-books for programmers
 
-I have collected these books from various resources, I decided to put all of these books at one place, I chose github, whenever someone searches the particualr, these books are then shown him, maybe in first few hits.
+I have collected these books from various resources, I decided to put all of these books at one place, I chose github, whenever someone searches the particular book, these books are then shown him, maybe in first few hits.
 
 ## Includes
 - Programming
